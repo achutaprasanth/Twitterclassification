@@ -1,3 +1,4 @@
 # Twitterclassification
 
-Ensemble Classifier to classify Twitter dataset
+Ensemble Classifier to classify Twitter dataset.
+
